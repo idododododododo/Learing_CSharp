@@ -1,0 +1,15 @@
+C:\Users\helpd\RiderProjects\LearningBasic\myFIrstConsoleApp\bin\Debug\net7.0\myFIrstConsoleApp.exe
+C:\Users\helpd\RiderProjects\LearningBasic\myFIrstConsoleApp\bin\Debug\net7.0\myFIrstConsoleApp.deps.json
+C:\Users\helpd\RiderProjects\LearningBasic\myFIrstConsoleApp\bin\Debug\net7.0\myFIrstConsoleApp.runtimeconfig.json
+C:\Users\helpd\RiderProjects\LearningBasic\myFIrstConsoleApp\bin\Debug\net7.0\myFIrstConsoleApp.dll
+C:\Users\helpd\RiderProjects\LearningBasic\myFIrstConsoleApp\bin\Debug\net7.0\myFIrstConsoleApp.pdb
+C:\Users\helpd\RiderProjects\LearningBasic\myFIrstConsoleApp\obj\Debug\net7.0\myFIrstConsoleApp.csproj.AssemblyReference.cache
+C:\Users\helpd\RiderProjects\LearningBasic\myFIrstConsoleApp\obj\Debug\net7.0\myFIrstConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\helpd\RiderProjects\LearningBasic\myFIrstConsoleApp\obj\Debug\net7.0\myFIrstConsoleApp.AssemblyInfoInputs.cache
+C:\Users\helpd\RiderProjects\LearningBasic\myFIrstConsoleApp\obj\Debug\net7.0\myFIrstConsoleApp.AssemblyInfo.cs
+C:\Users\helpd\RiderProjects\LearningBasic\myFIrstConsoleApp\obj\Debug\net7.0\myFIrstConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\helpd\RiderProjects\LearningBasic\myFIrstConsoleApp\obj\Debug\net7.0\myFIrstConsoleApp.dll
+C:\Users\helpd\RiderProjects\LearningBasic\myFIrstConsoleApp\obj\Debug\net7.0\refint\myFIrstConsoleApp.dll
+C:\Users\helpd\RiderProjects\LearningBasic\myFIrstConsoleApp\obj\Debug\net7.0\myFIrstConsoleApp.pdb
+C:\Users\helpd\RiderProjects\LearningBasic\myFIrstConsoleApp\obj\Debug\net7.0\myFIrstConsoleApp.genruntimeconfig.cache
+C:\Users\helpd\RiderProjects\LearningBasic\myFIrstConsoleApp\obj\Debug\net7.0\ref\myFIrstConsoleApp.dll
