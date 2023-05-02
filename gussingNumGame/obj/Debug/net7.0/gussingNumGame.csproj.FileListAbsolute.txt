@@ -1,0 +1,15 @@
+C:\Users\helpd\RiderProjects\LearningBasic\gussingNumGame\bin\Debug\net7.0\gussingNumGame.exe
+C:\Users\helpd\RiderProjects\LearningBasic\gussingNumGame\bin\Debug\net7.0\gussingNumGame.deps.json
+C:\Users\helpd\RiderProjects\LearningBasic\gussingNumGame\bin\Debug\net7.0\gussingNumGame.runtimeconfig.json
+C:\Users\helpd\RiderProjects\LearningBasic\gussingNumGame\bin\Debug\net7.0\gussingNumGame.dll
+C:\Users\helpd\RiderProjects\LearningBasic\gussingNumGame\bin\Debug\net7.0\gussingNumGame.pdb
+C:\Users\helpd\RiderProjects\LearningBasic\gussingNumGame\obj\Debug\net7.0\gussingNumGame.csproj.AssemblyReference.cache
+C:\Users\helpd\RiderProjects\LearningBasic\gussingNumGame\obj\Debug\net7.0\gussingNumGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\helpd\RiderProjects\LearningBasic\gussingNumGame\obj\Debug\net7.0\gussingNumGame.AssemblyInfoInputs.cache
+C:\Users\helpd\RiderProjects\LearningBasic\gussingNumGame\obj\Debug\net7.0\gussingNumGame.AssemblyInfo.cs
+C:\Users\helpd\RiderProjects\LearningBasic\gussingNumGame\obj\Debug\net7.0\gussingNumGame.csproj.CoreCompileInputs.cache
+C:\Users\helpd\RiderProjects\LearningBasic\gussingNumGame\obj\Debug\net7.0\gussingNumGame.dll
+C:\Users\helpd\RiderProjects\LearningBasic\gussingNumGame\obj\Debug\net7.0\refint\gussingNumGame.dll
+C:\Users\helpd\RiderProjects\LearningBasic\gussingNumGame\obj\Debug\net7.0\gussingNumGame.pdb
+C:\Users\helpd\RiderProjects\LearningBasic\gussingNumGame\obj\Debug\net7.0\gussingNumGame.genruntimeconfig.cache
+C:\Users\helpd\RiderProjects\LearningBasic\gussingNumGame\obj\Debug\net7.0\ref\gussingNumGame.dll
